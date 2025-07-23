@@ -1,7 +1,7 @@
 
 # Hi, I'm Morenika!
 
-✿ Aspiring Software Engineer sharing about my journay and learnings in tech </br>
+✿ Aspiring Software Engineer sharing about my journey and learnings in Tech </br>
 ❤︎ Currently learning about Responsive Web Development and IU/UX </br>
 
 <!-- created with gprm -->
